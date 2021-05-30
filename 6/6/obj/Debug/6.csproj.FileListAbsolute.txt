@@ -1,0 +1,19 @@
+C:\Users\pc\Desktop\192511031\6\6\bin\Debug\6.exe.config
+C:\Users\pc\Desktop\192511031\6\6\bin\Debug\6.exe
+C:\Users\pc\Desktop\192511031\6\6\bin\Debug\6.pdb
+C:\Users\pc\Desktop\192511031\6\6\obj\Debug\6.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\192511031\6\6\obj\Debug\_6.Form1.resources
+C:\Users\pc\Desktop\192511031\6\6\obj\Debug\_6.Properties.Resources.resources
+C:\Users\pc\Desktop\192511031\6\6\obj\Debug\6.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\192511031\6\6\obj\Debug\6.exe
+C:\Users\pc\Desktop\192511031\6\6\obj\Debug\6.pdb
+C:\Users\pc\Desktop\Çalışma Soruları\192511031\6\6\bin\Debug\6.exe.config
+C:\Users\pc\Desktop\Çalışma Soruları\192511031\6\6\bin\Debug\6.exe
+C:\Users\pc\Desktop\Çalışma Soruları\192511031\6\6\bin\Debug\6.pdb
+C:\Users\pc\Desktop\Çalışma Soruları\192511031\6\6\obj\Debug\6.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Çalışma Soruları\192511031\6\6\obj\Debug\_6.Form1.resources
+C:\Users\pc\Desktop\Çalışma Soruları\192511031\6\6\obj\Debug\_6.Properties.Resources.resources
+C:\Users\pc\Desktop\Çalışma Soruları\192511031\6\6\obj\Debug\6.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Çalışma Soruları\192511031\6\6\obj\Debug\6.exe
+C:\Users\pc\Desktop\Çalışma Soruları\192511031\6\6\obj\Debug\6.pdb
+C:\Users\pc\Desktop\Çalışma Soruları\192511031\6\6\obj\Debug\6.csproj.CoreCompileInputs.cache

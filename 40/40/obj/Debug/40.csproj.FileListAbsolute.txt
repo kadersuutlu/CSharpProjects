@@ -1,0 +1,9 @@
+C:\Users\pc\Desktop\192511031\40\40\bin\Debug\40.exe.config
+C:\Users\pc\Desktop\192511031\40\40\bin\Debug\40.exe
+C:\Users\pc\Desktop\192511031\40\40\bin\Debug\40.pdb
+C:\Users\pc\Desktop\192511031\40\40\obj\Debug\40.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\192511031\40\40\obj\Debug\_40.Form1.resources
+C:\Users\pc\Desktop\192511031\40\40\obj\Debug\_40.Properties.Resources.resources
+C:\Users\pc\Desktop\192511031\40\40\obj\Debug\40.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\192511031\40\40\obj\Debug\40.exe
+C:\Users\pc\Desktop\192511031\40\40\obj\Debug\40.pdb

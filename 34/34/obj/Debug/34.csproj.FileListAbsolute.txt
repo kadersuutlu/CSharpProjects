@@ -1,0 +1,9 @@
+C:\Users\pc\Desktop\192511031\34\34\bin\Debug\34.exe.config
+C:\Users\pc\Desktop\192511031\34\34\bin\Debug\34.exe
+C:\Users\pc\Desktop\192511031\34\34\bin\Debug\34.pdb
+C:\Users\pc\Desktop\192511031\34\34\obj\Debug\34.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\192511031\34\34\obj\Debug\_34.Form1.resources
+C:\Users\pc\Desktop\192511031\34\34\obj\Debug\_34.Properties.Resources.resources
+C:\Users\pc\Desktop\192511031\34\34\obj\Debug\34.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\192511031\34\34\obj\Debug\34.exe
+C:\Users\pc\Desktop\192511031\34\34\obj\Debug\34.pdb

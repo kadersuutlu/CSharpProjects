@@ -1,0 +1,9 @@
+C:\Users\pc\Desktop\192511031\15\15\bin\Debug\15.exe.config
+C:\Users\pc\Desktop\192511031\15\15\bin\Debug\15.exe
+C:\Users\pc\Desktop\192511031\15\15\bin\Debug\15.pdb
+C:\Users\pc\Desktop\192511031\15\15\obj\Debug\15.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\192511031\15\15\obj\Debug\_15.Form1.resources
+C:\Users\pc\Desktop\192511031\15\15\obj\Debug\_15.Properties.Resources.resources
+C:\Users\pc\Desktop\192511031\15\15\obj\Debug\15.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\192511031\15\15\obj\Debug\15.exe
+C:\Users\pc\Desktop\192511031\15\15\obj\Debug\15.pdb

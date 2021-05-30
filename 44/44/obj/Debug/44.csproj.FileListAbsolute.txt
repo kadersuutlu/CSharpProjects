@@ -1,0 +1,9 @@
+C:\Users\pc\Desktop\192511031\44\44\bin\Debug\44.exe.config
+C:\Users\pc\Desktop\192511031\44\44\bin\Debug\44.exe
+C:\Users\pc\Desktop\192511031\44\44\bin\Debug\44.pdb
+C:\Users\pc\Desktop\192511031\44\44\obj\Debug\44.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\192511031\44\44\obj\Debug\_44.Form1.resources
+C:\Users\pc\Desktop\192511031\44\44\obj\Debug\_44.Properties.Resources.resources
+C:\Users\pc\Desktop\192511031\44\44\obj\Debug\44.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\192511031\44\44\obj\Debug\44.exe
+C:\Users\pc\Desktop\192511031\44\44\obj\Debug\44.pdb
